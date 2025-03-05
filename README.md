@@ -2,11 +2,10 @@
 This project is a PowerBi Dashbaord to showcase the different KPIs about the  Bank loan analysis.
 Here are the different measures that I created for this project.
 
-![AVERAGE DTI]("C:\Users\gupta\OneDrive\Pictures\Screenshots\Screenshot 2025-03-05 205518.png")
 
 
 
 
 
 
-
+![Average DTI ](https://github.com/user-attachments/assets/a1ead009-1434-422c-9b3e-f88c1a0d4408)
