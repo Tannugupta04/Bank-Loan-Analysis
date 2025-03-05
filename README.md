@@ -47,36 +47,31 @@ MOM(MONTH ON MONTH) TOTAL RECIEVED AMOUNT
 ![Screenshot 2025-03-05 211852](https://github.com/user-attachments/assets/df6b515e-a4d2-4f83-882a-bbac9e6e8f79)
 
 
-
 MOM TOTAL FUNDED AMOUNT
 ![Screenshot 2025-03-05 211902](https://github.com/user-attachments/assets/a7f716a8-374d-40ca-b425-b7a23c6157a9)
 
-
-
-
-
-
+MTD AVERAGE DTI
 ![Screenshot 2025-03-05 211910](https://github.com/user-attachments/assets/36797803-8410-4b82-bf57-a35d766c6bfa)
 
-
+MTD AVERAGE INTEREST RATE
 ![Screenshot 2025-03-05 211919](https://github.com/user-attachments/assets/b4350be7-5ecb-4b1a-88b6-7196332eb6d3)
 
-
+MTD FUNDED AMOUNT
 ![Screenshot 2025-03-05 211929](https://github.com/user-attachments/assets/ec9fa041-1312-4f9e-b21a-ff502e88951a)
 
-
+MTD LOAN APPLICATION
 ![Screenshot 2025-03-05 211943](https://github.com/user-attachments/assets/dc2083a1-42b6-4d0f-b72e-7f7e58989287)
 
-
+MTD TOTAL AMOUNT RECIEVED
 ![Screenshot 2025-03-05 211958](https://github.com/user-attachments/assets/703aaa6a-8081-497d-b260-5fdd5a2c5562)
 
-
+PMTD AVERAGE DTI
 ![Screenshot 2025-03-05 212011](https://github.com/user-attachments/assets/07548c49-e5da-42f7-a525-d37c0869b486)
 
-
+PMTD AVERAGE INTEREST RATE
 ![Screenshot 2025-03-05 212021](https://github.com/user-attachments/assets/3c62ce02-badc-4c24-9c80-00983bfe6881)
 
-
+PMTD TOTAL FUNDED AMOUNT
 ![Screenshot 2025-03-05 212029](https://github.com/user-attachments/assets/a53a6531-c1ef-4797-9465-ec9dc4c01dad)
 
 
