@@ -27,22 +27,30 @@ GOOD LOAN FUNDED AOUNT
 ![Screenshot 2025-03-05 211730](https://github.com/user-attachments/assets/bce87f22-c8a4-465e-81b9-1aa89d40a348)
 
 GOOD LOAN RECIEVED AMOUNT
-![Screenshot 2025-03-05 211730](https://github.com/user-attachments/assets/1cdf5af1-622d-4aba-8f49-337c502493d5)
-
-MOM(MONT ON MONTH) AVERAGE DTI
 ![Screenshot 2025-03-05 211740](https://github.com/user-attachments/assets/6dc515d8-3054-445a-90e4-7f0f3c3fe999)
 
-MOM (MONTH ON MONTH) AVERAGE INTEREST RATE
+
+MOM(MONT ON MONTH) AVERAGE DTI
 ![Screenshot 2025-03-05 211811](https://github.com/user-attachments/assets/358e2883-f713-41e6-b2ca-2f0be7849335)
 
 MOM (MONTH ON MONTH) LOAN APPLICATION
+![Screenshot 2025-03-05 211811](https://github.com/user-attachments/assets/358e2883-f713-41e6-b2ca-2f0be7849335)
+
+
+MOM (MONTH ON MONTH) AVERAGE INTEREST RATE
 ![Screenshot 2025-03-05 211820](https://github.com/user-attachments/assets/bda0efc7-126d-43f4-a804-7aa852f2bce2)
 
-MOM(MONTH ON MONTH) TOTAL RECIEVED AMOUNT
+MOM (MONTH ON MONTH) LOAN APPLICATION
 ![Screenshot 2025-03-05 211836](https://github.com/user-attachments/assets/0b0bebea-f2d2-4a75-b8ca-51d745fb5cc8)
 
-MONTH TO DATE(MTD) AVERAGE DTI
+MOM(MONTH ON MONTH) TOTAL RECIEVED AMOUNT
 ![Screenshot 2025-03-05 211852](https://github.com/user-attachments/assets/df6b515e-a4d2-4f83-882a-bbac9e6e8f79)
+
+
+
+MONTH TO DATE(MTD) AVERAGE DTI
+![Screenshot 2025-03-05 211902](https://github.com/user-attachments/assets/a7f716a8-374d-40ca-b425-b7a23c6157a9)
+
 
 MONTH TO DATE(MTD)AVERAGE INTEREST RATE
 ![Screenshot 2025-03-05 211902](https://github.com/user-attachments/assets/a7f716a8-374d-40ca-b425-b7a23c6157a9)
