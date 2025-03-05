@@ -70,10 +70,11 @@ PMTD AVERAGE DTI
 PMTD AVERAGE INTEREST RATE
 ![Screenshot 2025-03-05 212021](https://github.com/user-attachments/assets/3c62ce02-badc-4c24-9c80-00983bfe6881)
 
-PMTD TOTAL FUNDED AMOUNT
+PMTD LOAN APPLICATION
 ![Screenshot 2025-03-05 212029](https://github.com/user-attachments/assets/a53a6531-c1ef-4797-9465-ec9dc4c01dad)
 
 
+And many more
 
 
 
