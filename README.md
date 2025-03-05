@@ -72,21 +72,6 @@ PMTD TOTAL AMOUNT RECIEVED
 ![Screenshot 2025-03-05 212029](https://github.com/user-attachments/assets/a53a6531-c1ef-4797-9465-ec9dc4c01dad)
 
 
-![Screenshot 2025-03-05 212042](https://github.com/user-attachments/assets/52a6c8e6-5d14-4ed6-8514-4fb0784f8f55)
-![Screenshot 2025-03-05 212051](https://github.com/user-attachments/assets/399170d4-bd73-434e-b868-33553b0b7bee)
-
-![Screenshot 2025-03-05 212101](https://github.com/user-attachments/assets/4ef43fa9-6a38-4691-96ce-fc09a5173c62)
-
-![Screenshot 2025-03-05 212113](https://github.com/user-attachments/assets/12671e8f-8e26-4b86-9314-3d0dca57ca42)
-![Screenshot 2025-03-05 212124](https://github.com/user-attachments/assets/b5653445-3a00-45b2-96b6-df6cccb485c9)
-
-![Screenshot 2025-03-05 212208](https://github.com/user-attachments/assets/d7293d31-20ae-40c0-969c-4e8bd1f3d624)
-
-![Screenshot 2025-03-05 212150](https://github.com/user-attachments/assets/9c6f2648-27ac-452c-a419-9b66502abf6e)
-
-
-
-
 
 
 
