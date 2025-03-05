@@ -48,12 +48,12 @@ MOM(MONTH ON MONTH) TOTAL RECIEVED AMOUNT
 
 
 
-
+MOM TOTAL FUNDED AMOUNT
 ![Screenshot 2025-03-05 211902](https://github.com/user-attachments/assets/a7f716a8-374d-40ca-b425-b7a23c6157a9)
 
 
 
-![Screenshot 2025-03-05 211902](https://github.com/user-attachments/assets/a7f716a8-374d-40ca-b425-b7a23c6157a9)
+
 
 
 ![Screenshot 2025-03-05 211910](https://github.com/user-attachments/assets/36797803-8410-4b82-bf57-a35d766c6bfa)
