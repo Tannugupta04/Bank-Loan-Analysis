@@ -30,11 +30,10 @@ GOOD LOAN RECIEVED AMOUNT
 ![Screenshot 2025-03-05 211740](https://github.com/user-attachments/assets/6dc515d8-3054-445a-90e4-7f0f3c3fe999)
 
 
-MOM(MONT ON MONTH) AVERAGE DTI
+MOM(MONTH ON MONTH) AVERAGE DTI
 ![Screenshot 2025-03-05 211811](https://github.com/user-attachments/assets/358e2883-f713-41e6-b2ca-2f0be7849335)
 
-MOM (MONTH ON MONTH) LOAN APPLICATION
-![Screenshot 2025-03-05 211811](https://github.com/user-attachments/assets/358e2883-f713-41e6-b2ca-2f0be7849335)
+
 
 
 MOM (MONTH ON MONTH) AVERAGE INTEREST RATE
